@@ -1,0 +1,8 @@
+1. evaluation des donnée taxa abundance dicaprio
+
+
+2. autoencoder  mask some presence and les retrouver  use metagenomic dataset as ucsd used
+  random mask of taxa 
+
+3. transformer  treat taxa abundance order as sequence 
+  taxa data 

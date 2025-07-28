@@ -1,0 +1,8 @@
+{
+  "model_max_length": 512,
+  "tokenizer_class": "SimpleTokenizer",
+  "pad_token": "<pad>",
+  "bos_token": "<s>",
+  "eos_token": "</s>",
+  "unk_token": "<unk>"
+}
